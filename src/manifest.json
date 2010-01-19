@@ -5,6 +5,6 @@
    } ],
    "description": "Force Skip nikkeibp.co.jp welcome page",
    "name": "Skip nikkeibp.co.jp welcome page",
-   "update_url": "http://github.com/armaniacs/gcs-nikkeibp/blob/master/updates.xml",
-   "version": "0.5"
+   "update_url": "http://github.com/armaniacs/gcs-nikkei/raw/master/updates.xml",
+   "version": "0.6"
 }
