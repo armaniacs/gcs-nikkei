@@ -1,0 +1,10 @@
+{
+   "content_scripts": [ {
+      "js": [ "skip_summary.js" ],
+      "matches": [ "http://*.nikkeibp.co.jp/welcome.html" ]
+   } ],
+   "description": "Force Skip nikkeibp.co.jp welcome page",
+   "name": "Skip nikkeibp.co.jp welcome page",
+   "update_url": "http://github.com/armaniacs/gcs-nikkeibp/blob/master/updates.xml",
+   "version": "0.5"
+}
