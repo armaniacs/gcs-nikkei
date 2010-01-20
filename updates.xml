@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='mpbmkicbikhhihcpoahmcompfcbfldfj'
+  <app appid='mpbmkicbikhhihcpoahmcompfcbfldfj'>
     <updatecheck codebase='http://github.com/armaniacs/gcs-nikkei/raw/master/dist/gcs-nikkeibp-v0_6_1.crx' version='0.6.1' />
   </app>
 </gupdate>
